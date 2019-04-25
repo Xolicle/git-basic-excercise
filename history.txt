@@ -1,0 +1,231 @@
+    1  sudo dnf install chrome
+    2  sudo install chrome
+    3  sudo apt install google chrome
+    4  zypper install git
+    5  sudo apt install git
+    6  # pacman -S git
+    7  sudo apt install pacman
+    8  sudo apt install git
+    9  https://github.com/wbkd/webpack-starter.git
+   10  git clonehttps://github.com/wbkd/webpack-starter.git
+   11  1234576r
+   12  npm install
+   13  sudo apt install npm
+   14  npm start
+   15  sudo apt install npm
+   16  sudo apt install git
+   17  https://github.com/wbkd/webpack-starter.git
+   18  $ mkdir git-repos
+   19  $ cd git-repos
+   20  $ git clone https://github.com/AlracWebmaven/playground.git
+   21  Cloning into 'playground'...
+   22  remote: Counting objects: 4, done.
+   23  remote: Compressing objects: 100% (4/4), done.
+   24  remote: Total 4 (delta 0), reused 0 (delta 0)
+   25  Unpacking objects: 100% (4/4), done.
+   26  Checking connectivity... done.
+   27  $ ls playground/
+   28  git -version
+   29  git --version
+   30  pwd
+   31  cd
+   32  cd /
+   33  cd / Desktop
+   34  cd Downloads
+   35  ls
+   36  cd Desktop
+   37  mkdir
+   38  mkdir --help
+   39  clear
+   40  mkdir [myproject]
+   41  cd myProject
+   42  clear
+   43  mkdir myProject
+   44  cd myProject
+   45  cat app.js
+   46  cat > app.js
+   47  cd Desktop
+   48  cd/Desktop
+   49  cd~
+   50  clear
+   51  cd..
+   52  cd-
+   53  clear
+   54  cdw
+   55  clear
+   56  pwd
+   57  cd
+   58  cd Desktop
+   59  mkdir myProject2
+   60  pwd
+   61  mkdir <myProject2>
+   62  clear
+   63  mkdir myProject2
+   64  cp myProject myProject2
+   65  cp app.js ../
+   66  cp app.js../
+   67  cp app.js myProject2
+   68  cp / tmp myProject2
+   69  pwd
+   70  cp app.js myProject2
+   71  cd myProject
+   72  ls
+   73  cp app.js myProject2
+   74  cp app.js ../
+   75  cp app.js ../Desktop
+   76  cd myProject2
+   77  cd ..
+   78  cd myProject2
+   79  ls
+   80  cp app.js myProject2
+   81  cd ..
+   82  cp app.js ../
+   83  cd ..
+   84  cp app.js ../Desktop
+   85  cd ..
+   86  cd Desktop
+   87  ls
+   88  cd recruit
+   89  cd Desktop
+   90  cp app.js ../
+   91  cp app.js ../Desktop
+   92  cp app.js myproject2
+   93  cd ..
+   94  pwd
+   95  cd Desktop
+   96  cd myProject2
+   97  ls
+   98  cd..
+   99  cd ..
+  100  pwd
+  101  cp app.js ../
+  102  cp app.js ../Desktop
+  103  cp app.js ../myproject2
+  104  cp app.js ../myProject2
+  105  cd myProject2
+  106  ls
+  107  clear
+  108  cp app.js /tmp
+  109  pwd
+  110  cd Desktop
+  111  cd ..
+  112  cd myProject
+  113  cp app.js ../
+  114  cp app.js ../myProject2/
+  115  cd ..
+  116  cd myProject2
+  117  ls
+  118  ls -R
+  119  git v
+  120  git --version
+  121  git bash
+  122  git init
+  123  touch assignment2.js
+  124  cd Assignment1
+  125  cd ..
+  126  cd OOP assignments
+  127  cd ..
+  128  ls
+  129  cd Documents
+  130  cd OOP assignments
+  131  cd OOP\ assignments/
+  132  ls
+  133  cd Assignmet1
+  134  cd..
+  135  cd Documents
+  136  cd~
+  137  cd ~
+  138  pwd
+  139  cd Documents
+  140  cd OOP\ assignments/
+  141  ls
+  142  vi[Assignment1]
+  143  vi Assignment1
+  144  git config
+  145  git config --global user.name "Xolcle" git  config --global user.email xoliegatsheni@gmail.com
+  146  git init
+  147  cd Documents
+  148  cd OOP
+  149  cd OOP\ assignments/
+  150  git init
+  151  vim Assignment1.txt
+  152  git init
+  153  cd Assignment1.js
+  154  clear
+  155  git clone https://github.com/Xolicle/OOP-Assignment.git
+  156  cd OOP-Assignment/
+  157  git status
+  158  git add *
+  159  git status
+  160  git commit
+  161  git commit -m "first commit"
+  162  git config --global user.email "xoliegatsheni@gmail.com"
+  163  git config --global user.name "Xolicle"
+  164  git commit -m "first commit"
+  165  git push
+  166  git status
+  167  git commit -m "second commit"
+  168  git push
+  169  git status
+  170  git add <Assignment1.js>
+  171  git commit -a 
+  172  mkdir git-basic-excercises
+  173  cd git-basic-excercises
+  174  ls -a 
+  175  git init
+  176  ls -a
+  177  git status
+  178  touch README.md
+  179  ls -a
+  180  git status
+  181  git log
+  182  git add README.md
+  183  git status
+  184  git commit -m "initial commit"
+  185  git log
+  186  q
+  187  nano README.md
+  188  cat README.md
+  189  git stats
+  190  git status
+  191  git commit -m "second commit"
+  192  git add README.md
+  193  git status
+  194  git commit -m "second commit"
+  195  git status
+  196  nano README.md
+  197  cat README.md
+  198  git add README.md
+  199  git status
+  200  git commit -m "third commit"
+  201  git status
+  202  git log
+  203  q
+  204  git checkout
+  205  git checkout commit 0dce02a9e9bb4d0d27f8ecab7eb2c913b28e3445
+  206  git checkout 0dce02a9e9bb4d0d27f8ecab7eb2c913b28e3445
+  207  cat README.md
+  208  git checkout master
+  209  cat README.md
+  210  git branch
+  211  git branch <milkshake-flavour>
+  212  git branch
+  213  git branch <milkshake_flavour>
+  214  git checkout -b "milkshake flavour"
+  215  git checkout -b "milkshake_flavour"
+  216  git branch
+  217  git checkout master
+  218  git branch
+  219  git checkout milkshake_flavour 
+  220  git branch
+  221  nano milkshake_flavour.md
+  222  git status
+  223  git add milkshake_flavour.md
+  224  git commit -m "added initial flavours"
+  225  git status
+  226  git log
+  227  git checkout master
+  228  git branch
+  229  git checkout -b "history"
+  230  git log
+  231  history > history.txt
